@@ -1,10 +1,12 @@
 # rust & vulkan (vulkano) runtime example
 
 cargo.toml excerpt:<br/>
-winit = "*"<br/>
-vulkano = "*"<br/>
-vulkano-win = "*"<br/>
-vulkano-shader-derive = "*"<br/>
+<pre>
+winit = "*"
+vulkano = "*"
+vulkano-win = "*"
+vulkano-shader-derive = "*"
+</pre>
 
 
 getting a basic runtime up with vulkano takes more effort than it should and the triangle demo doesn't make it easy as everything's defined in main()
