@@ -1,4 +1,4 @@
-# vulkan_runtime_example
+# rust & vulkano (vulkano) runtime example
 
 cargo.toml excerpt:<br/>
 winit = "*"<br/>
