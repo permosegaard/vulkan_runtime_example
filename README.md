@@ -1,10 +1,10 @@
 # vulkan_runtime_example
 
-cargo.toml excerpt:
-winit = "*"
-vulkano = "*"
-vulkano-win = "*"
-vulkano-shader-derive = "*"
+cargo.toml excerpt:<br/>
+winit = "*"<br/>
+vulkano = "*"<br/>
+vulkano-win = "*"<br/>
+vulkano-shader-derive = "*"<br/>
 
 
 getting a basic runtime up with vulkano takes more effort than it should and the triangle demo doesn't make it easy as everything's defined in main()
