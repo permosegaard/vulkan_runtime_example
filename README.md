@@ -11,4 +11,4 @@ vulkano-shader-derive = "*"
 
 getting a basic runtime up with vulkano takes more effort than it should and the triangle demo doesn't make it easy as everything's defined in main()
 
-this should kick-start your project - i've tried to code around requiring "nll" turned on but that's probably good to try enabling that first if you get any obscure ownership errors
+this should kick-start your project - i've tried to code around requiring "nll" turned on, however, enabling that is probably a good place to start if you're getting obscure/unintuitive ownership errors
